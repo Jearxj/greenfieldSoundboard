@@ -135,9 +135,10 @@ body {
 h3 {
   text-align: center;
   font-weight: bold;
-  font-family: Futura, Helvetica, Garamond, Arial;;
+  font-family: Futura, Helvetica, Garamond, Arial;
   font-size: 30px;
   /*color: #A6CA26;*/
+  color: white;
 }
 
 .creators {
