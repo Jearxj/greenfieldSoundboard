@@ -264,4 +264,4 @@ setTimeout(function() {
     </div>, document.getElementById('app')
   );
 
-}, 2000);
+}, 4000);

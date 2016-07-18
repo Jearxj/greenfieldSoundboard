@@ -267,4 +267,4 @@ setTimeout(function () {
     null,
     React.createElement(App, null)
   ), document.getElementById('app'));
-}, 2000);
+}, 4000);
