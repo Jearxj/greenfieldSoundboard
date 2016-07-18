@@ -33,4 +33,4 @@ var RebindNode = React.createClass({
 //
 
 //this is actually not needed. Just remember that you might need to do this someday.
-window.rebindNode = RebindNode;
+window.RebindNode = RebindNode;
